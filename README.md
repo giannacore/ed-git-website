@@ -10,3 +10,8 @@
 
    1. Download or clone this repository.
    2. Open the file `index.html` in your web browser (double-click it, or right-click > Open with > your browser).
+
+## Website
+
+The website is published with GitHub Pages: https://giannacore.github.io/ed-git-website/
+
