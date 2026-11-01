@@ -1,6 +1,6 @@
- # Green Bikes Website
+ # Calmna Website
 
-   This repository contains the website of **Green Bikes**, a fictional company that rents electric and mountain bikes in the city centre.
+   This repository contains the website of **Calmna**, a fictional beauty salon.
 
    ## Technologies used
    - HTML
